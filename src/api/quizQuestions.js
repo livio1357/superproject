@@ -32,7 +32,24 @@ var quizQuestions = [
               content: "Animail"
           }
       ]
-  }
+  },
+  {
+    question: "Which city has the best pizza",
+    answers: [
+        {
+            type: "Math",
+            content: "Chicago"
+        },
+        {
+            type: "Name",
+            content: "New York"
+        },
+        {
+            type: "Animail",
+            content: "Austin"
+        }
+    ]
+}
   
 ];
 
